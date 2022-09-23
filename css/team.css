@@ -1,0 +1,89 @@
+
+body {
+    
+}
+
+.team-info__block {
+    position: absolute;
+    display: block;
+    width: 1139px;
+    height: 505px;
+    left: 370px;
+    top: 280px;
+
+    background: #D9D9D9;
+    border-radius: 11px;
+}
+
+.team-info__block-header {
+    position: absolute;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    left: 40%;
+    right: 50%;
+
+    color: #000000;
+}
+
+.avatar-img {
+    position: absolute;
+    width: 215px;
+    height: 216px;
+
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 39px;
+}
+
+.img-1 {
+    left: 160px;
+    top: 135px;
+}
+
+.img-2  {
+    left: 760px;
+    top: 135px;
+}
+
+.avatar-info {
+    position: absolute;
+    width: 454px;
+    height: 58px;
+    top: 375px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.info-1 {
+    left: 50px;
+}
+
+.info-2 {
+    left: 640px;
+}
+
+.team-invite-note {
+    position: absolute;
+    width: 979px;
+    height: 78px;
+    left: 437px;
+    top: 810px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    text-align: center;
+
+    color: #000000;
+}
