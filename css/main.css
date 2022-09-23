@@ -1,0 +1,140 @@
+
+*, *:after, *:before {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    transition: .5s ease-in-out;
+    /* добавим плавность переходов для всех элементов страницы*/
+ }
+
+body {
+    position: relative;
+}
+
+a {
+    color: #000000;
+}
+
+.logo {
+    position: absolute;
+    width: 354px;
+    height: 129px;
+    border-radius: 35px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.language-button {
+    position: absolute;
+    width: 179px;
+    height: 38px;
+    left: 1720px;
+    top: 20px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+
+    background: #D9D9D9;
+    border-radius: 30px;
+}
+
+.main-header {
+    position: absolute;
+    width: 679px;
+    height: 155px;
+    top: 388px;
+    left: 675px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 128px;
+    line-height: 155px;
+}
+
+.alt-header {
+    position: absolute;
+    width: 329px;
+    height: 77px;
+    left: 825px;
+    top: 543px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+}
+
+#about-text {
+    position: absolute;
+    width: 66px;
+    height: 29px;
+    left: 1600px;
+    top: 20px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+.alt-text {
+    position: absolute;
+    width: 527px;
+    height: 39px;
+    left: 750px;
+    top: 821px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+}
+
+#projects-text {
+    position: absolute;
+    width: 66px;
+    height: 29px;
+    left: 1480px;
+    top: 20px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+#team-text {
+    position: absolute;
+    width: 66px;
+    height: 29px;
+    left: 1380px;
+    top: 20px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+#main-page-text {
+    position: absolute;
+    width: 96px;
+    height: 29px;
+    left: 1260px;
+    top: 20px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+}
