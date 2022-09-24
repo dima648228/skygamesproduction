@@ -87,3 +87,17 @@ body {
 
     color: #000000;
 }
+
+.avatar-header {
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    left: 230px;
+    top: 100px;
+}
+
+.avatar-header-p {
+    left: 830px;
+}
